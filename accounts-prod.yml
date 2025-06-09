@@ -4,8 +4,8 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related prod APIs "
   contactDetails:
-    name: "Pelias Sudhir - Product Owner"
-    email: "pelias@eazybank.com"
+    name: "John Doe - Product Owner"
+    email: "{cipher}e09dfd2f600146efb7fc96063337411ad6335384d7c3e16668dffd2ac3fc99eefe7286ca74884e8a47dc329cea2ac51e"
   onCallSupport:
     - (723) 656-8709
     - (156) 342-0956
